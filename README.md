@@ -1,7 +1,7 @@
 # MATHSUS
 Política de Privacidad de MATHSUS
 
-Última actualización: [Fecha]
+Última actualización: 09 marzo 2025
 
 Gracias por utilizar MATHSUS. Esta aplicación ha sido desarrollada para proporcionar herramientas de cálculo mediante métodos numéricos para encontrar raíces de funciones no lineales.
 
@@ -43,4 +43,4 @@ Podemos actualizar nuestra Política de Privacidad ocasionalmente. Se recomienda
 
 Si tienes preguntas o inquietudes sobre esta Política de Privacidad, puedes contactarnos en:
 
-[Correo electrónico o sitio web de soporte]
+jesusalirio@unicauca.edu.co
